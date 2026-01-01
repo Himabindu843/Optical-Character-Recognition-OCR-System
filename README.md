@@ -161,7 +161,7 @@ pip install pytesseract opencv-python numpy matplotlib
 * Requires preprocessing tuning for different image types
 * Not layout-aware (tables and forms need advanced OCR)
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Handwritten text recognition using deep learning
 * Multilingual OCR support
